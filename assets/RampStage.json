@@ -126,6 +126,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"depth",
                          "type":"int",
                          "value":0
@@ -136,6 +141,11 @@
                  "properties":[
                         {
                          "name":"Ladder",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }, 
@@ -154,6 +164,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"depth",
                          "type":"int",
                          "value":2
@@ -164,6 +179,11 @@
                  "properties":[
                         {
                          "name":"Ladder",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }, 
@@ -182,6 +202,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"depth",
                          "type":"int",
                          "value":4
@@ -192,6 +217,11 @@
                  "properties":[
                         {
                          "name":"Ladder",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }, 
@@ -210,6 +240,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"depth",
                          "type":"int",
                          "value":6
@@ -220,6 +255,11 @@
                  "properties":[
                         {
                          "name":"Ladder",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }, 
@@ -305,6 +345,11 @@
                  "id":32,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"depth",
                          "type":"int",
                          "value":0
@@ -318,6 +363,11 @@
                 {
                  "id":33,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"depth",
                          "type":"int",
@@ -333,6 +383,11 @@
                  "id":34,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"depth",
                          "type":"int",
                          "value":2
@@ -346,6 +401,11 @@
                 {
                  "id":35,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"depth",
                          "type":"int",
@@ -361,6 +421,11 @@
                  "id":36,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"depth",
                          "type":"int",
                          "value":4
@@ -374,6 +439,11 @@
                 {
                  "id":37,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"depth",
                          "type":"int",
@@ -389,6 +459,11 @@
                  "id":38,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"depth",
                          "type":"int",
                          "value":6
@@ -402,6 +477,11 @@
                 {
                  "id":39,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"depth",
                          "type":"int",
