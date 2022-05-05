@@ -52,6 +52,16 @@
                          "name":"ladder",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":-8
                         }]
                 }, 
                 {
@@ -61,6 +71,16 @@
                          "name":"ladder",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":-7
                         }]
                 }, 
                 {
@@ -70,6 +90,16 @@
                          "name":"ladder",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":-6
                         }]
                 }, 
                 {
@@ -79,6 +109,16 @@
                          "name":"ladder",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":-5
                         }]
                 }, 
                 {
@@ -88,6 +128,16 @@
                          "name":"ladder",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":-4
                         }]
                 }, 
                 {
@@ -97,6 +147,16 @@
                          "name":"ladder",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":-3
                         }]
                 }, 
                 {
@@ -106,6 +166,16 @@
                          "name":"ladder",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":-2
                         }]
                 }, 
                 {
@@ -115,6 +185,16 @@
                          "name":"ladder",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"top",
+                         "type":"int",
+                         "value":-1
                         }]
                 }, 
                 {
@@ -127,6 +207,11 @@
                         }, 
                         {
                          "name":"ladder",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"oneway",
                          "type":"bool",
                          "value":true
                         }, 
@@ -155,6 +240,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"platform",
                          "type":"bool",
                          "value":true
@@ -175,6 +265,11 @@
                         }, 
                         {
                          "name":"ladder",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"oneway",
                          "type":"bool",
                          "value":true
                         }, 
@@ -203,6 +298,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"platform",
                          "type":"bool",
                          "value":true
@@ -223,6 +323,11 @@
                         }, 
                         {
                          "name":"ladder",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"oneway",
                          "type":"bool",
                          "value":true
                         }, 
@@ -251,6 +356,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"platform",
                          "type":"bool",
                          "value":true
@@ -271,6 +381,11 @@
                         }, 
                         {
                          "name":"ladder",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"oneway",
                          "type":"bool",
                          "value":true
                         }, 
@@ -299,6 +414,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"platform",
                          "type":"bool",
                          "value":true
@@ -313,6 +433,11 @@
                  "id":24,
                  "properties":[
                         {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"scaffolding",
                          "type":"bool",
                          "value":true
@@ -321,6 +446,11 @@
                 {
                  "id":25,
                  "properties":[
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"scaffolding",
                          "type":"bool",
@@ -331,6 +461,11 @@
                  "id":26,
                  "properties":[
                         {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"scaffolding",
                          "type":"bool",
                          "value":true
@@ -339,6 +474,11 @@
                 {
                  "id":27,
                  "properties":[
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"scaffolding",
                          "type":"bool",
@@ -349,6 +489,11 @@
                  "id":28,
                  "properties":[
                         {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"scaffolding",
                          "type":"bool",
                          "value":true
@@ -357,6 +502,11 @@
                 {
                  "id":29,
                  "properties":[
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"scaffolding",
                          "type":"bool",
@@ -367,6 +517,11 @@
                  "id":30,
                  "properties":[
                         {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"scaffolding",
                          "type":"bool",
                          "value":true
@@ -375,6 +530,11 @@
                 {
                  "id":31,
                  "properties":[
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"scaffolding",
                          "type":"bool",
@@ -386,6 +546,11 @@
                  "properties":[
                         {
                          "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"oneway",
                          "type":"bool",
                          "value":true
                         }, 
@@ -414,6 +579,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"platform",
                          "type":"bool",
                          "value":true
@@ -434,6 +604,11 @@
                  "properties":[
                         {
                          "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"oneway",
                          "type":"bool",
                          "value":true
                         }, 
@@ -462,6 +637,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"platform",
                          "type":"bool",
                          "value":true
@@ -482,6 +662,11 @@
                  "properties":[
                         {
                          "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"oneway",
                          "type":"bool",
                          "value":true
                         }, 
@@ -510,6 +695,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"platform",
                          "type":"bool",
                          "value":true
@@ -534,6 +724,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"platform",
                          "type":"bool",
                          "value":true
@@ -554,6 +749,11 @@
                  "properties":[
                         {
                          "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"oneway",
                          "type":"bool",
                          "value":true
                         }, 
