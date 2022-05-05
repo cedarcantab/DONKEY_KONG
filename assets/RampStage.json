@@ -49,12 +49,12 @@
                  "id":8,
                  "properties":[
                         {
-                         "name":"ladder",
+                         "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
-                         "name":"oneway",
+                         "name":"ladder",
                          "type":"bool",
                          "value":true
                         }, 
@@ -68,12 +68,12 @@
                  "id":9,
                  "properties":[
                         {
-                         "name":"ladder",
+                         "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
-                         "name":"oneway",
+                         "name":"ladder",
                          "type":"bool",
                          "value":true
                         }, 
@@ -87,12 +87,12 @@
                  "id":10,
                  "properties":[
                         {
-                         "name":"ladder",
+                         "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
-                         "name":"oneway",
+                         "name":"ladder",
                          "type":"bool",
                          "value":true
                         }, 
@@ -106,12 +106,12 @@
                  "id":11,
                  "properties":[
                         {
-                         "name":"ladder",
+                         "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
-                         "name":"oneway",
+                         "name":"ladder",
                          "type":"bool",
                          "value":true
                         }, 
@@ -125,12 +125,12 @@
                  "id":12,
                  "properties":[
                         {
-                         "name":"ladder",
+                         "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
-                         "name":"oneway",
+                         "name":"ladder",
                          "type":"bool",
                          "value":true
                         }, 
@@ -144,12 +144,12 @@
                  "id":13,
                  "properties":[
                         {
-                         "name":"ladder",
+                         "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
-                         "name":"oneway",
+                         "name":"ladder",
                          "type":"bool",
                          "value":true
                         }, 
@@ -163,12 +163,12 @@
                  "id":14,
                  "properties":[
                         {
-                         "name":"ladder",
+                         "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
-                         "name":"oneway",
+                         "name":"ladder",
                          "type":"bool",
                          "value":true
                         }, 
@@ -182,12 +182,12 @@
                  "id":15,
                  "properties":[
                         {
-                         "name":"ladder",
+                         "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
-                         "name":"oneway",
+                         "name":"ladder",
                          "type":"bool",
                          "value":true
                         }, 
@@ -433,9 +433,9 @@
                  "id":24,
                  "properties":[
                         {
-                         "name":"oneway",
+                         "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"scaffolding",
@@ -447,9 +447,9 @@
                  "id":25,
                  "properties":[
                         {
-                         "name":"oneway",
+                         "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"scaffolding",
@@ -461,9 +461,9 @@
                  "id":26,
                  "properties":[
                         {
-                         "name":"oneway",
+                         "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"scaffolding",
@@ -475,9 +475,9 @@
                  "id":27,
                  "properties":[
                         {
-                         "name":"oneway",
+                         "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"scaffolding",
@@ -489,9 +489,9 @@
                  "id":28,
                  "properties":[
                         {
-                         "name":"oneway",
+                         "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"scaffolding",
@@ -503,9 +503,9 @@
                  "id":29,
                  "properties":[
                         {
-                         "name":"oneway",
+                         "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"scaffolding",
@@ -517,9 +517,9 @@
                  "id":30,
                  "properties":[
                         {
-                         "name":"oneway",
+                         "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"scaffolding",
@@ -531,9 +531,9 @@
                  "id":31,
                  "properties":[
                         {
-                         "name":"oneway",
+                         "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"scaffolding",
