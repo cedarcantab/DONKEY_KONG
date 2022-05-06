@@ -59,6 +59,16 @@
                          "value":true
                         }, 
                         {
+                         "name":"laddertop",
+                         "type":"int",
+                         "value":0
+                        }, 
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"top",
                          "type":"int",
                          "value":-8
@@ -74,6 +84,16 @@
                         }, 
                         {
                          "name":"ladder",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"laddertop",
+                         "type":"int",
+                         "value":1
+                        }, 
+                        {
+                         "name":"oneway",
                          "type":"bool",
                          "value":true
                         }, 
@@ -97,6 +117,16 @@
                          "value":true
                         }, 
                         {
+                         "name":"laddertop",
+                         "type":"int",
+                         "value":2
+                        }, 
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"top",
                          "type":"int",
                          "value":-6
@@ -112,6 +142,16 @@
                         }, 
                         {
                          "name":"ladder",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"laddertop",
+                         "type":"int",
+                         "value":3
+                        }, 
+                        {
+                         "name":"oneway",
                          "type":"bool",
                          "value":true
                         }, 
@@ -135,6 +175,16 @@
                          "value":true
                         }, 
                         {
+                         "name":"laddertop",
+                         "type":"int",
+                         "value":4
+                        }, 
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"top",
                          "type":"int",
                          "value":-4
@@ -150,6 +200,16 @@
                         }, 
                         {
                          "name":"ladder",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"laddertop",
+                         "type":"int",
+                         "value":5
+                        }, 
+                        {
+                         "name":"oneway",
                          "type":"bool",
                          "value":true
                         }, 
@@ -173,6 +233,16 @@
                          "value":true
                         }, 
                         {
+                         "name":"laddertop",
+                         "type":"int",
+                         "value":6
+                        }, 
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"top",
                          "type":"int",
                          "value":-2
@@ -188,6 +258,16 @@
                         }, 
                         {
                          "name":"ladder",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"laddertop",
+                         "type":"int",
+                         "value":7
+                        }, 
+                        {
+                         "name":"oneway",
                          "type":"bool",
                          "value":true
                         }, 
@@ -438,6 +518,11 @@
                          "value":false
                         }, 
                         {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"scaffolding",
                          "type":"bool",
                          "value":true
@@ -450,6 +535,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":false
+                        }, 
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
                         }, 
                         {
                          "name":"scaffolding",
@@ -466,6 +556,11 @@
                          "value":false
                         }, 
                         {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"scaffolding",
                          "type":"bool",
                          "value":true
@@ -478,6 +573,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":false
+                        }, 
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
                         }, 
                         {
                          "name":"scaffolding",
@@ -494,6 +594,11 @@
                          "value":false
                         }, 
                         {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"scaffolding",
                          "type":"bool",
                          "value":true
@@ -506,6 +611,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":false
+                        }, 
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
                         }, 
                         {
                          "name":"scaffolding",
@@ -522,6 +632,11 @@
                          "value":false
                         }, 
                         {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"scaffolding",
                          "type":"bool",
                          "value":true
@@ -534,6 +649,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":false
+                        }, 
+                        {
+                         "name":"oneway",
+                         "type":"bool",
+                         "value":true
                         }, 
                         {
                          "name":"scaffolding",
